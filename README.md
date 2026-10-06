@@ -10,3 +10,4 @@ Add this line
 | Kanthi  | Manager |
 
 [status](https://img.shields.io/badge/status-building-red)
+- Ananya: first commit from the command line.
